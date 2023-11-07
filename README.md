@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+#### I'm now interested in ...
+
+📌 ABAP => https://www.notion.so/SAP-9f623aecf3e449d0adbc16aaf270cff3
+
+📌 ALGORITHM  => https://github.com/1s-sky/algorithm/tree/main
 <!--
 **1s-sky/1s-sky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
